@@ -133,7 +133,7 @@ const omerADA = {
 ```
 🔹 Blue Ball 10 - 1M+ downloads
    ├─ Unity 2D physics-based platformer
-   ├─ 4.5⭐ Google Play rating
+   ├─ 4.2⭐ Google Play rating
    └─ Featured placement
 
 🔹 Blue Ball 11: Red Bounce Ball - 500K+ downloads
@@ -182,16 +182,10 @@ const omerADA = {
 
 ## 🎓 Education & Certifications
 
-🎓 **Süleyman Demirel University** - Computer Engineering (2015-2020)
+🎓 **Süleyman Demirel University** - Computer Engineering (2018-2022)
 
 - GPA: 3.32/4.0
 - Focus: Software Engineering, Data Structures, Web Programming
-
-🏅 **Certifications:**
-
-- ✅ Oracle Certified Professional Java SE Developer (2023)
-- ✅ Spring Professional Certification - VMware (2023)
-- ✅ Unity Certified Developer (2022)
 
 ---
 
