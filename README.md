@@ -258,7 +258,7 @@ For project proposals, collaborations, or tech discussions:
 
 📧 **Email:** adasunucum06@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/omerada](https://linkedin.com/in/omerada)
-🌐 **Website:** omerada.com _(coming soon)_
+🌐 **Website:**  [omerada.com](https://omerada.com/)
 
 </div>
 
