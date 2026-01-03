@@ -26,7 +26,7 @@ Hello! I'm **Ömer ADA**, a Full Stack Developer and Game Developer based in Ank
 ### 🌟 Key Achievements
 
 - 🎯 **1.5M+** total mobile game downloads
-- 🏢 **SESASIS** - Leading COBOL to Java migration for SGK modernization project
+- 🏢 **SGK** - COBOL to Java migration for SGK modernization project, SGK EMEKTAR 4C Oracle Forms Project
 - ⚓ **Turkish Naval Forces** - Enterprise vehicle management system development
 - 🏆 **Official commendations** and performance awards
 - 📱 **Google Play Store** featured placements
@@ -37,12 +37,22 @@ Hello! I'm **Ömer ADA**, a Full Stack Developer and Game Developer based in Ank
 
 ```typescript
 const omerADA = {
-  role: "Full Stack Java Developer",
-  company: "SESASIS",
-  project: "SGK Modernization Project",
-  focus: ["Legacy Migration", "Microservices", "Java Spring Boot"],
-  location: "Ankara, Turkey",
-  status: "Available for new projects ✅",
+  current: {
+    role: "Full Stack Java Developer",
+    company: "FONET",
+    project: "MBYS Projesi",
+    focus: ["Microservices", "Java Spring Boot", "Sağlık Bilgi Sistemleri", "CI/CD"],
+    location: "Ankara, Turkey",
+  },
+  experience: [
+    {
+      role: "Full Stack Java Developer",
+      company: "SESASIS",
+      project: "SGK Modernizasyon Projesi",
+      focus: ["Legacy Migration", "COBOL to JAVA", "Java Spring Boot"],
+      location: "Ankara, Turkey",
+    },
+  ],
 };
 ```
 
@@ -201,11 +211,15 @@ timeline
     2020 : Blue Ball series launch
          : 1M+ downloads achievement
 
-    2023 : Naval Forces project
+    2024 : Naval Forces project
          : Enterprise system development
 
-    2024 : SESASIS - SGK modernization
+    2025 : SESASIS - SGK modernization
          : Legacy migration expertise
+
+    2026 : FONET - Ministry of Health (MBYS)
+         : Healthcare information systems & microservices
+
 ```
 
 ---
