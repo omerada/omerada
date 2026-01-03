@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </div>
 
-# 🚀 Ömer ADA - Full Stack Developer & Game Developer
+# Ömer ADA - Full Stack Developer & Game Developer
 
 <div align="center">
   
