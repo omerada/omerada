@@ -40,16 +40,27 @@ const omerADA = {
   current: {
     role: "Full Stack Java Developer",
     company: "FONET",
-    project: "MBYS Projesi",
-    focus: ["Microservices", "Java Spring Boot", "Sağlık Bilgi Sistemleri", "CI/CD"],
+    project: "Hospital Information Management System Project",
+    focus: [
+      "Microservices",
+      "Spring Framework",
+      "React",
+      "Healthcare Information Systems",
+      "CI/CD",
+    ],
     location: "Ankara, Turkey",
   },
   experience: [
     {
       role: "Full Stack Java Developer",
       company: "SESASIS",
-      project: "SGK Modernizasyon Projesi",
-      focus: ["Legacy Migration", "COBOL to JAVA", "Java Spring Boot"],
+      project: "Social Security Institution (SGK) Modernization Project",
+      focus: [
+        "Legacy Migration",
+        "COBOL to Java",
+        "React",
+        "Spring Framework",
+      ],
       location: "Ankara, Turkey",
     },
   ],
