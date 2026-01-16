@@ -17,23 +17,23 @@
 
 </div>
 
-## 👨‍💻 About Me
+##  About Me
 
 Hello! I'm **Ömer ADA**, a Full Stack Developer and Game Developer based in Ankara, Turkey.
 
-> 💡 **5+ years** of experience specializing in modern web technologies and game development
+>  **5+ years** of experience specializing in modern web technologies and game development
 
-### 🌟 Key Achievements
+### Key Achievements
 
-- 🎯 **1.5M+** total mobile game downloads
-- 🏢 **SGK** - COBOL to Java migration for SGK modernization project, SGK EMEKTAR 4C Oracle Forms Project
-- ⚓ **Turkish Naval Forces** - Enterprise vehicle management system development
-- 🏆 **Official commendations** and performance awards
-- 📱 **Google Play Store** featured placements
+-  **2M+** total mobile game downloads
+-  **SGK** - COBOL to Java migration for SGK modernization project, SGK EMEKTAR 4C Oracle Forms Project
+-  **Turkish Naval Forces** - Enterprise vehicle management system development
+-  **Official commendations** and performance awards
+-  **Google Play Store** featured placements
 
 ---
 
-## 🔥 Currently
+## Currently
 
 ```typescript
 const omerADA = {
@@ -69,9 +69,9 @@ const omerADA = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Backend Development
+### Backend Development
 
 <div align="center">
 
@@ -83,7 +83,7 @@ const omerADA = {
 
 </div>
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <div align="center">
 
@@ -95,7 +95,7 @@ const omerADA = {
 
 </div>
 
-### 🎮 Game Development
+### Game Development
 
 <div align="center">
 
@@ -106,7 +106,7 @@ const omerADA = {
 
 </div>
 
-### 🗄️ Database & DevOps
+### Database & DevOps
 
 <div align="center">
 
@@ -120,7 +120,7 @@ const omerADA = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omerada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -133,15 +133,15 @@ const omerADA = {
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 ### 🏢 Enterprise Projects
 
 ```
 🔹 SGK Modernization Project (2024-Present)
    ├─ COBOL → Java Spring Boot migration
-   ├─ Microservices architecture
-   └─ 40% performance improvement
+   ├─ DB2, React
+   └─ Modern Tech
 
 🔹 Turkish Naval Forces Vehicle Management System (2023-2024)
    ├─ Java Spring Framework + JSF
@@ -149,7 +149,7 @@ const omerADA = {
    └─ Official commendation award
 ```
 
-### 🎮 Popular Games
+### Popular Games
 
 ```
 🔹 Blue Ball 10 - 1M+ downloads
@@ -168,7 +168,7 @@ const omerADA = {
    └─ Cross-platform compatibility
 ```
 
-### 🌐 Web Platforms
+### Web Platforms
 
 ```
 🔹 Craftpilot.io
@@ -184,7 +184,7 @@ const omerADA = {
 
 ---
 
-## 🎯 Skills Overview
+## Skills Overview
 
 <div align="center">
 
@@ -201,7 +201,7 @@ const omerADA = {
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 🎓 **Süleyman Demirel University** - Computer Engineering (2018-2022)
 
@@ -210,7 +210,7 @@ const omerADA = {
 
 ---
 
-## 📈 Career Journey
+##  Career Journey
 
 ```mermaid
 timeline
@@ -235,7 +235,7 @@ timeline
 
 ---
 
-## 💡 Areas of Interest
+## Areas of Interest
 
 <div align="center">
 
@@ -247,7 +247,7 @@ timeline
 
 ---
 
-## 📱 Mobile Game Portfolio
+## Mobile Game Portfolio
 
 <div align="center">
   
@@ -257,33 +257,23 @@ timeline
 |   **Blue Ball 11**   |  500K+  | 4.3⭐ | Android  |
 | **Car Driving Simulator** |  100K+  | 4.1⭐ | Android  |
 
-**Total: 1.5M+ Downloads**
+**Total: 2M+ Downloads**
 
 </div>
 
 ---
 
-## 🎯 2024 Goals
-
-- [ ] 🚀 Successfully complete SGK modernization project
-- [ ] 📱 Develop enterprise mobile applications with React Native
-- [ ] 🤖 Integrate AI/ML technologies into projects
-- [ ] ☁️ Obtain AWS/Azure cloud certifications
-- [ ] 📚 Contribute to open source projects
-
----
-
-## 💬 Get In Touch
+## Get In Touch
 
 <div align="center">
 
-**🚀 Available for new projects!**
+** Available for new projects!**
 
 For project proposals, collaborations, or tech discussions:
 
-📧 **Email:** adasunucum06@gmail.com
-💼 **LinkedIn:** [linkedin.com/in/omerada](https://linkedin.com/in/omerada)
-🌐 **Website:**  [omerada.com](https://omerada.com/)
+ **Email:** iletisim@omerada.com
+ **LinkedIn:** [linkedin.com/in/omerada](https://linkedin.com/in/omerada)
+ **Website:**  [omerada.com](https://omerada.com/)
 
 </div>
 
